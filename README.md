@@ -15,4 +15,4 @@ Este proyecto implementa un prototipo de middleware en Python diseñado para int
    
 ## 📊 Evidencia de Ejecución
 A continuación se muestra el resultado del script procesando 10 mensajes (5 legítimos y 5 intentos de ataque):
-![Evidencia de Terminal](assets/evidencia_terminal.png)
+![Evidencia de Terminal](assets/evidencia_terminal.jpeg)
